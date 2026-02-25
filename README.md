@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Zar!</strong></summary>
+# <summary><strong>Hi everyone :wave: , I'm Zar!</strong></summary>
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
